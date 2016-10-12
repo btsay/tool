@@ -6,7 +6,7 @@ import (
 	// "sync/atomic"
 	"time"
 
-	"github.com/btlike/repository"
+	"github.com/btsay/repository"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"gopkg.in/olivere/elastic.v3"
